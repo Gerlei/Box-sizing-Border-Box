@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+
+html{
+    font-size: 16px;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: 10px solid green;
+}
+
+.com-border-box{
+    background-color: yellow;
+    box-sizing: border-box;
+}
+
+.sem-border-box{
+    background-color: yellow;
+}
